@@ -1,0 +1,12 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",NOVA
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3523?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Prima Cool
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3519?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",PRIMA COMEDY CENTRAL
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/9976?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",Nickelodeon HD
+http://c0.cdn.trinity-tv.net/stream/7t1JRpfow927XUoPtmgataMC5m5aLewzNYUP.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",Интер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8?checkedby:iptvcat.com
